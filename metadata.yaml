@@ -1,0 +1,29 @@
+_repo: Daisy-Burns--Volume-2-_36158
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kavanagh, Julia
+    birthdate: 1824
+    deathdate: 1877
+    gutenberg_agent_id: '38107'
+    url: http://www.gutenberg.org/2009/agents/38107
+    wikipedia: http://en.wikipedia.org/wiki/Julia_Kavanagh
+description: ''
+gutenberg_issued: '2011-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36158'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- Fiction'
+title: Daisy Burns (Volume 2)
+url: http://www.gutenberg.org/ebooks/36158
